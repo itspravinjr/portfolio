@@ -2,10 +2,6 @@
 
 Welcome to my portfolio! This repository contains the source code for my personal website, where I showcase my projects and share information about myself.
 
-## Live Website
-
-Visit my portfolio [here](https://your-website-url.com).
-
 ## Table of Contents
 
 - [About Me](#about-me)
